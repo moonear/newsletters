@@ -4,7 +4,7 @@
 
 [Revue NewsLetters](https://www.getrevue.co)
 
-- Data Machina [https://www.getrevue.co/profile/datamachina(https://www.getrevue.co/profile/datamachina)
+- Data Machina [https://www.getrevue.co/profile/datamachina](https://www.getrevue.co/profile/datamachina)
 
 - The Data Science Roundup [http://roundup.fishtownanalytics.com/](http://roundup.fishtownanalytics.com/)
 
